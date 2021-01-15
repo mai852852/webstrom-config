@@ -1,0 +1,14 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Al Nile" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" nodeUpdateOnChanges="true" useJBChromeExtension="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
+</application>
