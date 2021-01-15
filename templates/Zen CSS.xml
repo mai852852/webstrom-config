@@ -1,0 +1,5 @@
+<templateSet group="Zen CSS">
+  <template name="lh" value="line-height:$END$px;" description="line-height:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

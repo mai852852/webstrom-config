@@ -1,0 +1,29 @@
+<keymap version="1" name="Mac OS X 10.5+复制" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>

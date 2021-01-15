@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="test2" type="HTML" />
+      <mapping pattern="03augular的基本结构" type="PLAIN_TEXT" />
+      <mapping pattern="插件知识说明" type="PLAIN_TEXT" />
+      <mapping pattern="01自定义一个模态弹框的指令" type="PLAIN_TEXT" />
+      <mapping pattern="yarn" type="PLAIN_TEXT" />
+      <mapping pattern="插件知识说明.txt" type="PLAIN_TEXT" />
+      <mapping ext="angularjs基础" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

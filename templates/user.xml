@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="favorite" value=" &lt;link rel=&quot;shortcut icon&quot; href=&quot;favorite.ico&quot; type=&quot;image/icon&quot;/&gt;" description="网页图标" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
